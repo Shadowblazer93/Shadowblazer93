@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Shadowblazer93)
+
 # 📑About Me
 I am a casual programmer that codes in my spare time.  
 [Links and Info](https://discord.bio/p/sb93)  
