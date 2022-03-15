@@ -19,7 +19,6 @@ My repositories are private because all my projects are closed-source
 If I feel like it, I might release some of my previous finished projects
 
 # 🔑Coding
-I specialize in Javascript (js)  
-I have been coding for over 4 years now
+I specialize in Javascript node.js
 
 ![that is all](https://i.imgur.com/X1Skvqn.gif)
