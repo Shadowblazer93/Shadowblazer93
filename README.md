@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Shadowblazer93)
-
 [![Sb93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowblazer93&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📑About Me
