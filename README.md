@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Shadowblazer93)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowblazer93)](https://github.com/anuraghazra/github-readme-stats)
+[![Sb93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowblazer93&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📑About Me
 I am a casual programmer that codes in my spare time.  
