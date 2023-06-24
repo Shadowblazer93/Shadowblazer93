@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Shadowblazer93/Shadowblazer93/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Shadowblazer93/Shadowblazer93/93f6636f9099b06a3b25285cf3eba9e2a808292c/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
