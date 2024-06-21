@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/Jsx6Q1H/jooj-upscale.png"  />
+[comment]: <> (<img align="right" height="150" src="https://i.ibb.co/Jsx6Q1H/jooj-upscale.png"  />)
 
 ###
 
